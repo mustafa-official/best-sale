@@ -4,3 +4,7 @@
   margin: 0;
   font-family: Work sans-serif;
 }
+
+.main-sec {
+  filter: blur(5px);
+}
